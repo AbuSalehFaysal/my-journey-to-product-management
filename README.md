@@ -5,10 +5,10 @@ This document tracks my learning and transition into product management.
 ---  
 
 ## 📌 Table of Contents  
-1. [What is Product Management?](#1.what-is-product-management)  
-2. [Product vs Project Management](#2.product-vs-project-management)  
-3. [Roles and Responsibilities of a Product Manager](#3.roles-and-responsibilities-of-a-product-manager)  
-4. [Key Skills for a Product Manager](#4.key-skills-for-a-product-manager)    
+1. [What is Product Management?](#what-is-product-management)  
+2. [Product vs Project Management](#product-vs-project-management)  
+3. [Roles and Responsibilities of a Product Manager](#roles-and-responsibilities-of-a-product-manager)  
+4. [Key Skills for a Product Manager](#key-skills-for-a-product-manager)    
 
 ---  
 
