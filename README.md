@@ -6,7 +6,8 @@ This document tracks my learning and transition into product management.
 
 ## 📌 Table of Contents
 1. [What is Product Management?](#what-is-product-management)
-2. [Product vs Project Management](#product-vs-project-management)  
+2. [Product vs Project Management](#product-vs-project-management)
+3. [Roles and Responsibilities of a Product Manager](#roles-and-responsibilities-of-a-product-manager) 
 ---
 
 ## What is Product Management?
@@ -28,6 +29,16 @@ Product development is an ongoing cycle that never truly ends. To survive in a c
 
 **🔹 Project Management:**  
 On the other hand, these never-ending product cycles are executed through measurable **projects**. A project manager is responsible for **resource budgeting, task allocation, timelines, and strategies** to accomplish specific goals within a defined timeframe. While product management focuses on the **"what and why,"** project management ensures the **"how and when."**  
+
+---
+
+## Roles and Responsibilities of a Product Manager  
+
+In simple words, a PM:  
+
+✅️ Defines product vision, roadmaps, and strategies.  
+✅️ Gathers customer requirements and prioritizes them.  
+✅️ Works with teams such as sales, marketing, and engineering to fulfill those requirements.
 
 ---
 
