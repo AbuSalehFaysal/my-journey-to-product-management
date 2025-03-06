@@ -1,28 +1,29 @@
-# My Journey to Product Management 🚀
+# My Journey to Product Management 🚀  
 
-This document tracks my learning and transition into product management.
+This document tracks my learning and transition into product management.  
 
----
+---  
 
-## 📌 Table of Contents
-1. [What is Product Management?](#what-is-product-management)
-2. [Product vs Project Management](#product-vs-project-management)
-3. [Roles and Responsibilities of a Product Manager](#roles-and-responsibilities-of-a-product-manager)
-4. [Key Skills for a Product Manager](#key-skills-for-a-product-manager)  
----
+## 📌 Table of Contents  
+1. [1. What is Product Management?](#what-is-product-management)  
+2. [2. Product vs Project Management](#product-vs-project-management)  
+3. [3. Roles and Responsibilities of a Product Manager](#roles-and-responsibilities-of-a-product-manager)  
+4. [4. Key Skills for a Product Manager](#key-skills-for-a-product-manager)    
 
-## 1. What is Product Management?
-We all have the basic idea of Product management or the role of product managers which contributes to the Product Cycle from before the development of the product and after the release of the products and constant improvements based on the needs. After seeing tons of videos and reading a gigantic amount of blogs about Product management, I found three core values which define a PM role.
+---  
 
-✅️ Identify the vision of the Product.
+## 1. What is Product Management?  
+We all have the basic idea of Product management or the role of product managers which contributes to the Product Cycle from before the development of the product and after the release of the products and constant improvements based on the needs. After seeing tons of videos and reading a gigantic amount of blogs about Product management, I found three core values which define a PM role.  
 
-✅️ Create a Roadmap that helps the team to fulfill that vision.
+✅️ Identify the vision of the Product.  
 
-✅️ Constantly stay in touch with the product end-user and stakeholder to meet their requirements and share with the entire team so the whole team understands what we are doing and why.
+✅️ Create a Roadmap that helps the team to fulfill that vision.  
 
----
+✅️ Constantly stay in touch with the product end-user and stakeholder to meet their requirements and share with the entire team so the whole team understands what we are doing and why.  
 
-## 2. Product vs. Project Management
+---  
+
+## 2. Product vs Project Management  
 When I started working in the tech industry back in 2020, I used to think these two roles had a lot of similarities—which is technically true. However, there are key differences:  
 
 **🔹 Product Management:**  
@@ -31,7 +32,7 @@ Product development is an ongoing cycle that never truly ends. To survive in a c
 **🔹 Project Management:**  
 On the other hand, these never-ending product cycles are executed through measurable **projects**. A project manager is responsible for **resource budgeting, task allocation, timelines, and strategies** to accomplish specific goals within a defined timeframe. While product management focuses on the **"what and why,"** project management ensures the **"how and when."**  
 
----
+---  
 
 ## 3. Roles and Responsibilities of a Product Manager  
 
@@ -39,9 +40,9 @@ In simple words, a PM:
 
 ✅️ Defines product vision, roadmaps, and strategies.  
 ✅️ Gathers customer requirements and prioritizes them.  
-✅️ Works with teams such as sales, marketing, and engineering to fulfill those requirements.
+✅️ Works with teams such as sales, marketing, and engineering to fulfill those requirements.  
 
----
+---  
 
 ## 4. Key Skills for a Product Manager  
 
@@ -57,8 +58,4 @@ On top of these, as key skills, I think a PM needs:
 
 ---  
 
-
-More topics coming soon... 🚀
-
-
-
+More topics coming soon... 🚀  
