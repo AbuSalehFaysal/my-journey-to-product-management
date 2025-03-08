@@ -9,7 +9,7 @@ This document tracks my learning and transition into product management.
 2. [Product vs Project Management](#product-vs-project-management)  
 3. [Roles and Responsibilities of a Product Manager](#roles-and-responsibilities-of-a-product-manager)  
 4. [Key Skills for a Product Manager](#key-skills-for-a-product-manager)
-5. [Product Management Lifecycle] (#product-management-lifecycle)
+5. [Product Management Lifecycle](#product-management-lifecycle)
 
 ---  
 
