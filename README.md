@@ -8,7 +8,9 @@ This document tracks my learning and transition into product management.
 1. [What is Product Management?](#what-is-product-management)  
 2. [Product vs Project Management](#product-vs-project-management)  
 3. [Roles and Responsibilities of a Product Manager](#roles-and-responsibilities-of-a-product-manager)  
-4. [Key Skills for a Product Manager](#key-skills-for-a-product-manager)    
+4. [Key Skills for a Product Manager](#key-skills-for-a-product-manager)
+5. [Product Management Lifecycle]
+(#product-management-lifecycle)
 
 ---  
 
@@ -55,6 +57,21 @@ On top of these, as key skills, I think a PM needs:
 ✅️ **Understanding customer needs and market trends**  
 
 ✅️ **Influencing cross-functional teams** (without pushing or forcing)  
+
+## Product Development Lifecycle
+
+Product Managers have to work during the entire lifecycle of the product starting from generating idea to release. The product lifecycle consists five primary stages
+
+✅️ **Ideation**
+
+✅️ **Designing**
+
+✅️ **Development**
+
+✅️ **Testing**
+
+✅️ **Launching**
+
 
 ---  
 
