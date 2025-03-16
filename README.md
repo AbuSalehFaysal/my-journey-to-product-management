@@ -10,6 +10,7 @@ This document tracks my learning and transition into product management.
 3. [Roles and Responsibilities of a Product Manager](#roles-and-responsibilities-of-a-product-manager)  
 4. [Key Skills for a Product Manager](#key-skills-for-a-product-manager)
 5. [Product Development Lifecycle](#product-development-lifecycle)
+6. [Product Development Phase](#product-development-phase)
 
 ---  
 
@@ -71,7 +72,11 @@ Product Managers have to work during the entire lifecycle of the product startin
 
 ✅️ **Launching**
 
+## Product Development Phase
+
+Product Development is the phase when we officially build the product. However, the phase starts from collecting user requirements to understand the customer's pain points, way before building the product, and it continues even after countless testing just to make the product better for the customers. 
 
 ---  
 
 More topics coming soon... 🚀  
+
