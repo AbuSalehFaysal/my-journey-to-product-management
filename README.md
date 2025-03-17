@@ -11,6 +11,7 @@ This document tracks my learning and transition into product management.
 4. [Key Skills for a Product Manager](#key-skills-for-a-product-manager)
 5. [Product Development Lifecycle](#product-development-lifecycle)
 6. [Product Development Phase](#product-development-phase)
+7. [Introduction Phase of Product Development](#introduction-phase-of-product-development)
 
 ---  
 
@@ -75,6 +76,11 @@ Product Managers have to work during the entire lifecycle of the product startin
 ## Product Development Phase
 
 Product Development is the phase when we officially build the product. However, the phase starts from collecting user requirements to understand the customer's pain points, way before building the product, and it continues even after countless testing just to make the product better for the customers. 
+
+
+## Introduction Phase of Product Development
+
+Lifecycle The introduction phase starts when a product makes its first step to market from development. PM's primary responsibility in the introduction phase is monitoring the product's performance in the market and gathering feedback from early-stage customers. #productmanagement #pm #tbp
 
 ---  
 
