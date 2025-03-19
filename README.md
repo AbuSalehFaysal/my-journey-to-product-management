@@ -43,8 +43,10 @@ On the other hand, these never-ending product cycles are executed through measur
 
 In simple words, a PM:  
 
-✅️ Defines product vision, roadmaps, and strategies.  
+✅️ Defines product vision, roadmaps, and strategies.
+ 
 ✅️ Gathers customer requirements and prioritizes them.  
+
 ✅️ Works with teams such as sales, marketing, and engineering to fulfill those requirements.  
 
 ---  
@@ -90,8 +92,11 @@ Lifecycle The introduction phase starts when a product makes its first step to m
 After the Development & Introduction phase, the real challenge begins—scaling the product. This is where a Product Manager must turn insights into action.
 
 ✅ Analyze customer feedback – Understand what’s working and what’s not.
+
 ✅ Study competitors – Learn from their strengths and weaknesses.
+
 ✅ Refine the strategy – Optimize pricing, distribution, and user experience to drive adoption.
+
 ✅ Leverage marketing & sales – Position the product for maximum reach and engagement.
 
 The goal? Sustainable growth and market dominance. 🔥
@@ -101,7 +106,9 @@ The goal? Sustainable growth and market dominance. 🔥
 After successfully navigating the Development, Introduction, and Growth phases, your product reaches Maturity—a stage of stable revenue and a strong customer base. But the work doesn’t stop here!
 
 ✅ Retain loyal customers – Enhance user experience and maintain engagement.
+
 ✅ Diversify & innovate – Introduce new features to attract fresh audiences.
+
 ✅ Optimize & improve – Stay ahead of the competition with continuous refinements.
 
 A great product doesn’t just survive—it evolves.
