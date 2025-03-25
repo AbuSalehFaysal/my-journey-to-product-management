@@ -14,7 +14,7 @@ This document tracks my learning and transition into product management.
 7. [Introduction Phase of Product Development](#introduction-phase-of-product-development)
 8. [Growth Phase of Product Development](#growth-phase-of-product-development)
 9. [Maturity Phase of Product Development](#maturity-phase-of-product-development)
-10. [Mind Mapping: A Product Manager’s Best Friend](#Mind-Mapping:-A-Product-Manager’s-Best-Friend)
+10. [Mind Mapping](#Mind-Mapping)
 
 ---  
 
@@ -114,7 +114,7 @@ After successfully navigating the Development, Introduction, and Growth phases, 
 
 A great product doesn’t just survive—it evolves.
 
-## Mind Mapping: A Product Manager’s Best Friend 🧠✨
+## Mind Mapping
 
 As a Product Manager, you juggle multiple aspects of a product—features, user needs, stakeholder expectations, project timelines, market trends, and much more. With so many moving pieces, how do you ensure clarity and alignment?
 
