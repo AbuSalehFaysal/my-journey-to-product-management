@@ -127,6 +127,7 @@ For me, mind mapping is a game-changer. 🖊️💡
 ✅ It fosters collaboration, making stakeholder communication more effective.
 
 Whether it’s prioritizing features, planning a roadmap, or aligning teams, a well-structured mind map ensures that I never lose sight of the bigger picture.
+
 ---  
 
 More topics coming soon... 🚀  
