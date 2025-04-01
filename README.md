@@ -16,6 +16,7 @@ This document tracks my learning and transition into product management.
 9. [Maturity Phase of Product Development](#maturity-phase-of-product-development)
 10. [Decline Phase of Product Management](#decline-phase-of-product-management)
 11. [Mind Mapping](#Mind-Mapping)
+12. [Brainwriting in Product Management](#brainwriting-in-product-management)
 
 ---  
 
@@ -144,6 +145,9 @@ For me, mind mapping is a game-changer. 🖊️💡
 
 Whether it’s prioritizing features, planning a roadmap, or aligning teams, a well-structured mind map ensures that I never lose sight of the bigger picture.
 
+## Brainwriting in Product Management
+
+Brainwriting is a structured brainstorming in Product Management where every member individually writes down their idea and shares it with others for development. 
 ---  
 
 More topics coming soon... 🚀  
