@@ -14,7 +14,8 @@ This document tracks my learning and transition into product management.
 7. [Introduction Phase of Product Development](#introduction-phase-of-product-development)
 8. [Growth Phase of Product Development](#growth-phase-of-product-development)
 9. [Maturity Phase of Product Development](#maturity-phase-of-product-development)
-10. [Mind Mapping](#Mind-Mapping)
+10. [Decline Phase of Product Management](#decline-phase-of-product-management)
+11. [Mind Mapping](#Mind-Mapping)
 
 ---  
 
@@ -113,6 +114,21 @@ After successfully navigating the Development, Introduction, and Growth phases, 
 ✅ Optimize & improve – Stay ahead of the competition with continuous refinements.
 
 A great product doesn’t just survive—it evolves.
+
+## Decline Phase of Product Management
+
+Every product has a lifecycle--Introduction, Growth, Maturity, and ultimately, Decline. The decline phase is inevitable, but what differentiates a product manager is how they navigate it. 
+
+When a product starts losing market traction, PMs face tough strategic decisions: 
+
+✅️ Discontinuation - When maintaining the product is no longer viable. 
+
+✅️ Repositioning - Finding a new market fit or audience. 
+
+✅️ Reinvention - Enhancing the product to meet evolving customer needs.
+
+A declining product isn't always the end-it's an opportunity for transformation. 
+
 
 ## Mind Mapping
 
