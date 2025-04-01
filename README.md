@@ -147,7 +147,9 @@ Whether it’s prioritizing features, planning a roadmap, or aligning teams, a w
 
 ## Brainwriting in Product Management
 
+
 Brainwriting is a structured brainstorming in Product Management where every member individually writes down their idea and shares it with others for development. 
+
 ---  
 
 More topics coming soon... 🚀  
