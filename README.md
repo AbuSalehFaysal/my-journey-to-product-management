@@ -17,6 +17,7 @@ This document tracks my learning and transition into product management.
 10. [Decline Phase of Product Management](#decline-phase-of-product-management)
 11. [Mind Mapping](#Mind-Mapping)
 12. [Brainwriting in Product Management](#brainwriting-in-product-management)
+13. [SCAMPER](#scamper)
 
 ---  
 
@@ -149,6 +150,10 @@ Whether it’s prioritizing features, planning a roadmap, or aligning teams, a w
 
 
 Brainwriting is a structured brainstorming in Product Management where every member individually writes down their idea and shares it with others for development. 
+
+## SCAMPER
+
+SCAMPER represents Substitute, Combine, Adapt, Modify/Magnify, Put to other uses, Eliminate, and Reverse. In simple words, it's a tool for the pm to analyze the current product, identify areas of improvement, and discover new features or entirely new products, ensuring competitive advantage and long-term success. 
 
 ---  
 
