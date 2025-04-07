@@ -20,6 +20,7 @@ This document tracks my learning and transition into product management.
 13. [Mind Mapping](#Mind-Mapping)
 14. [Brainwriting in Product Management](#brainwriting-in-product-management)
 15. [SCAMPER](#scamper)
+16. [Iterative Process in Product Management](#iteravie-process-in-product-management]
 
 
 ---  
@@ -165,7 +166,11 @@ Brainwriting is a structured brainstorming in Product Management where every mem
 ## SCAMPER
 
 SCAMPER represents Substitute, Combine, Adapt, Modify/Magnify, Put to other uses, Eliminate, and Reverse. In simple words, it's a tool for the pm to analyze the current product, identify areas of improvement, and discover new features or entirely new products, ensuring competitive advantage and long-term success. 
- 
+
+
+## Iterative Process in Product Management
+
+Generally, the Iterative process means repetition. In product management, pm uses this process to continuously improve their products, which roughly includes creating, testing, refining and repeating. 
 
 ---  
 
