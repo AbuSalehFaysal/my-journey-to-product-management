@@ -158,7 +158,9 @@ SCAMPER represents Substitute, Combine, Adapt, Modify/Magnify, Put to other uses
 
 ## Brainstorming Techniques for Product Identification
 
+
 Brainstorming Techniques like Mind Map, SCAMPER, and SWOT Analysis help PM to identify the product, explore features, align the product with the vision and overall product strategy. 
+
 ---  
 
 More topics coming soon... 🚀  
