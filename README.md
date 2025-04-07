@@ -15,10 +15,12 @@ This document tracks my learning and transition into product management.
 8. [Growth Phase of Product Development](#growth-phase-of-product-development)
 9. [Maturity Phase of Product Development](#maturity-phase-of-product-development)
 10. [Decline Phase of Product Management](#decline-phase-of-product-management)
-11. [Mind Mapping](#Mind-Mapping)
-12. [Brainwriting in Product Management](#brainwriting-in-product-management)
-13. [SCAMPER](#scamper)
-14. [Brainstorming Techniques for Product Identification](#brainstorming-techniques-for-product-identification)
+11. [Product Identification](#product-identification)
+12. [Brainstorming Techniques for Product Identification]
+13. [Mind Mapping](#Mind-Mapping)
+14. [Brainwriting in Product Management](#brainwriting-in-product-management)
+15. [SCAMPER](#scamper)
+(#brainstorming-techniques-for-product-identification)
 
 ---  
 
@@ -132,6 +134,14 @@ When a product starts losing market traction, PMs face tough strategic decisions
 
 A declining product isn't always the end-it's an opportunity for transformation. 
 
+## Product Identification
+
+Product Identification is the crucial factor for the pm to identify products, including product core features, value proposition and target users.
+
+## Brainstorming Techniques for Product Identification
+
+
+Brainstorming Techniques like Mind Map, SCAMPER, and SWOT Analysis help PM to identify the product, explore features, align the product with the vision and overall product strategy. 
 
 ## Mind Mapping
 
@@ -155,11 +165,7 @@ Brainwriting is a structured brainstorming in Product Management where every mem
 ## SCAMPER
 
 SCAMPER represents Substitute, Combine, Adapt, Modify/Magnify, Put to other uses, Eliminate, and Reverse. In simple words, it's a tool for the pm to analyze the current product, identify areas of improvement, and discover new features or entirely new products, ensuring competitive advantage and long-term success. 
-
-## Brainstorming Techniques for Product Identification
-
-
-Brainstorming Techniques like Mind Map, SCAMPER, and SWOT Analysis help PM to identify the product, explore features, align the product with the vision and overall product strategy. 
+ 
 
 ---  
 
