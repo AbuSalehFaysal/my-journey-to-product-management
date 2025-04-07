@@ -18,6 +18,7 @@ This document tracks my learning and transition into product management.
 11. [Mind Mapping](#Mind-Mapping)
 12. [Brainwriting in Product Management](#brainwriting-in-product-management)
 13. [SCAMPER](#scamper)
+14. [Brainstorming Techniques for Product Identification](#brainstorming-techniques-for-product-identification)
 
 ---  
 
@@ -155,6 +156,9 @@ Brainwriting is a structured brainstorming in Product Management where every mem
 
 SCAMPER represents Substitute, Combine, Adapt, Modify/Magnify, Put to other uses, Eliminate, and Reverse. In simple words, it's a tool for the pm to analyze the current product, identify areas of improvement, and discover new features or entirely new products, ensuring competitive advantage and long-term success. 
 
+## Brainstorming Techniques for Product Identification
+
+Brainstorming Techniques like Mind Map, SCAMPER, and SWOT Analysis help PM to identify the product, explore features, align the product with the vision and overall product strategy. 
 ---  
 
 More topics coming soon... 🚀  
