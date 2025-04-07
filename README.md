@@ -20,7 +20,7 @@ This document tracks my learning and transition into product management.
 13. [Mind Mapping](#Mind-Mapping)
 14. [Brainwriting in Product Management](#brainwriting-in-product-management)
 15. [SCAMPER](#scamper)
-16. [Iterative Process in Product Management](#iteravie-process-in-product-management]
+16. [Iterative Process in Product Management](#iteravie-process-in-product-management)
 
 
 ---  
