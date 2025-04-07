@@ -16,11 +16,11 @@ This document tracks my learning and transition into product management.
 9. [Maturity Phase of Product Development](#maturity-phase-of-product-development)
 10. [Decline Phase of Product Management](#decline-phase-of-product-management)
 11. [Product Identification](#product-identification)
-12. [Brainstorming Techniques for Product Identification]
+12. [Brainstorming Techniques for Product Identification](#brainstorming-techniques-for-product-identification)
 13. [Mind Mapping](#Mind-Mapping)
 14. [Brainwriting in Product Management](#brainwriting-in-product-management)
 15. [SCAMPER](#scamper)
-(#brainstorming-techniques-for-product-identification)
+
 
 ---  
 
