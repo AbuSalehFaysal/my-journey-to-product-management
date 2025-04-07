@@ -170,6 +170,7 @@ SCAMPER represents Substitute, Combine, Adapt, Modify/Magnify, Put to other uses
 
 ## Iterative Process in Product Management
 
+
 Generally, the Iterative process means repetition. In product management, pm uses this process to continuously improve their products, which roughly includes creating, testing, refining and repeating. 
 
 ---  
