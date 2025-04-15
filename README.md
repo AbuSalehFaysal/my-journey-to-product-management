@@ -183,17 +183,13 @@ In short product discovery means deciding what to build. However, it also asks y
 2. Do the customers want our product?
 4. Do the customers care about the problem we are solving?
 
-## Selection in Product Management
----
-
-
-
-Selection involves identifying which features and projects to prioritize based on business goals, customer needs, and user feedback. As a product manager (PM), effective product selection is crucial for ensuring the product's success in the market. PMs utilize tools such as product roadmaps, prioritization metrics, and user feedback to guide their decisions on selection.
 ---  
 
 ## Selection in Product Management
 
 Selection involves identifying which features and projects to prioritize based on business goals, customer needs, and user feedback. As a product manager (PM), effective product selection is crucial for ensuring the product's success in the market. PMs utilize tools such as product roadmaps, prioritization metrics, and user feedback to guide their decisions on selection.
+
+---
 
 More topics coming soon... 🚀  
 
