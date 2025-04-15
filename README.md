@@ -184,6 +184,7 @@ In short product discovery means deciding what to build. However, it also asks y
 4. Do the customers care about the problem we are solving?
 
 ## Selection in Product Management
+---
 
 
 
