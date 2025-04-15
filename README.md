@@ -21,6 +21,7 @@ This document tracks my learning and transition into product management.
 14. [Brainwriting in Product Management](#brainwriting-in-product-management)
 15. [SCAMPER](#scamper)
 16. [Iterative Process in Product Management](#iterative-process-in-product-management)
+17. [Product Discovery](#product-discovery)
 
 
 ---  
@@ -172,6 +173,14 @@ SCAMPER represents Substitute, Combine, Adapt, Modify/Magnify, Put to other uses
 
 Generally, the Iterative process means repetition. In product management, pm uses this process to continuously improve their products, which roughly includes creating, testing, refining and repeating. 
 
+## Product Discovery
+
+In short product discovery means deciding what to build. However, it also asks you a few questions. 
+
+1. Are we meeting stakeholders needs?
+2. Can customers use our product?
+2. Do the customers want our product?
+4. Do the customers care about the problem we are solving?
 ---  
 
 More topics coming soon... 🚀  
