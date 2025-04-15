@@ -47,7 +47,6 @@ Product development is an ongoing cycle that never truly ends. To survive in a c
 **🔹 Project Management:**  
 On the other hand, these never-ending product cycles are executed through measurable **projects**. A project manager is responsible for **resource budgeting, task allocation, timelines, and strategies** to accomplish specific goals within a defined timeframe. While product management focuses on the **"what and why,"** project management ensures the **"how and when."**  
 
----  
 
 ## Roles and Responsibilities of a Product Manager  
 
@@ -59,7 +58,6 @@ In simple words, a PM:
 
 ✅️ Works with teams such as sales, marketing, and engineering to fulfill those requirements.  
 
----  
 
 ## Key Skills for a Product Manager  
 
@@ -183,7 +181,6 @@ In short product discovery means deciding what to build. However, it also asks y
 2. Do the customers want our product?
 4. Do the customers care about the problem we are solving?
 
----  
 
 ## Selection in Product Management
 
