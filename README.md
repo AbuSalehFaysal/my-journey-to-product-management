@@ -23,7 +23,7 @@ This document tracks my learning and transition into product management.
 16. [Iterative Process in Product Management](#iterative-process-in-product-management)
 17. [Product Discovery](#product-discovery)
 18. [Selection in Product Management](#selection-in-product-management)
-
+19. [Validation](#validation)
 
 ---  
 
@@ -185,6 +185,10 @@ In short product discovery means deciding what to build. However, it also asks y
 ## Selection in Product Management
 
 Selection involves identifying which features and projects to prioritize based on business goals, customer needs, and user feedback. As a product manager (PM), effective product selection is crucial for ensuring the product's success in the market. PMs utilize tools such as product roadmaps, prioritization metrics, and user feedback to guide their decisions on selection.
+
+## Validation
+
+Validation in Product Management refers to a step that ensures product is meeting the customers needs. We have to do this before the development of the product to avoid mistakes. 
 
 ---
 
