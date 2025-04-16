@@ -24,6 +24,7 @@ This document tracks my learning and transition into product management.
 17. [Product Discovery](#product-discovery)
 18. [Selection in Product Management](#selection-in-product-management)
 19. [Validation](#validation)
+20. [Execution](#execution)
 
 ---  
 
@@ -189,6 +190,10 @@ Selection involves identifying which features and projects to prioritize based o
 ## Validation
 
 Validation in Product Management refers to a step that ensures product is meeting the customers needs. We have to do this before the development of the product to avoid mistakes. 
+
+## Execution
+
+Execution in Product Management refers to implementation of the plans. It involves resource management, working with different teams, budgeting and make sure the product is aligned with the business needs. 
 
 ---
 
