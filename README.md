@@ -25,6 +25,7 @@ This document tracks my learning and transition into product management.
 18. [Selection in Product Management](#selection-in-product-management)
 19. [Validation](#validation)
 20. [Execution](#execution)
+21. [Blue Ocean Strategy](#blue-ocean-strategy)
 
 ---  
 
@@ -194,6 +195,16 @@ Validation in Product Management refers to a step that ensures product is meetin
 ## Execution
 
 Execution in Product Management refers to implementation of the plans. It involves resource management, working with different teams, budgeting and make sure the product is aligned with the business needs. 
+
+## Blue Ocean Strategy
+
+Back in 2005, W. Chan Kim and Renée Mauborgne came up with something pretty game-changing—a concept called Blue Ocean Strategy. Instead of fighting for space in crowded markets (what they call the Red Ocean), this strategy is all about creating a new market where there’s no competition yet. It’s a mindset a lot of modern product managers still live by.
+
+Take Slack, for example. Email was always there for workplace communication, but Slack came in and made things so much easier—pinning messages, reacting with emojis, replying in threads. It just clicked. Once you use it, it’s hard to imagine going back. And it feels like slack is just a beautiful creation that you always needed in your work life.
+
+If I think about a local example in Bangladesh, Bikroy.com pops into my head. When they launched, the idea of a digital marketplace wasn’t really a thing here. But they created that space—and suddenly, buying and selling online became normal.
+
+These are both awesome examples of how powerful it can be when you stop trying to beat the competition—and just build something new instead.
 
 ---
 
