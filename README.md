@@ -26,6 +26,7 @@ This document tracks my learning and transition into product management.
 19. [Validation](#validation)
 20. [Execution](#execution)
 21. [Blue Ocean Strategy](#blue-ocean-strategy)
+22. [TRIZ in Product Management](#triz-in-product-management)
 
 ---  
 
@@ -205,6 +206,10 @@ Take Slack, for example. Email was always there for workplace communication, but
 If I think about a local example in Bangladesh, Bikroy.com pops into my head. When they launched, the idea of a digital marketplace wasn’t really a thing here. But they created that space—and suddenly, buying and selling online became normal.
 
 These are both awesome examples of how powerful it can be when you stop trying to beat the competition—and just build something new instead.
+
+## TRIZ in Product Management
+
+TRIZ stands for Theory of Inventive Problem Solving. It's a tool that helps PM to discover solution, accelerate product development, solve complex problem and predict future business trends. 
 
 ---
 
