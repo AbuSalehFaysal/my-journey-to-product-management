@@ -27,6 +27,7 @@ This document tracks my learning and transition into product management.
 20. [Execution](#execution)
 21. [Blue Ocean Strategy](#blue-ocean-strategy)
 22. [TRIZ in Product Management](#triz-in-product-management)
+23. [Problem Framing](#problem-framing)
 
 ---  
 
@@ -210,6 +211,10 @@ These are both awesome examples of how powerful it can be when you stop trying t
 ## TRIZ in Product Management
 
 TRIZ stands for Theory of Inventive Problem Solving. It's a tool that helps PM to discover solution, accelerate product development, solve complex problem and predict future business trends. 
+
+## Problem Framing
+
+Problem Framing sounds like a fancy term but what it really means for pm is to articulate a problem in a detailed way, understanding the root cause of the problem. Most of the time, an efficient product solution depends how deeply we understand the problem. 
 
 ---
 
