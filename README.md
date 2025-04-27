@@ -219,6 +219,7 @@ Problem Framing sounds like a fancy term but what it really means for pm is to a
 
 ## Market Analysis
 
+
 Market Analysis is an essential responsibility of a Product Manager. It involves a deep understanding of potential customers, competitors, and prevailing business trends. This knowledge empowers PMs to craft effective strategies for successful product development.
 ---
 
