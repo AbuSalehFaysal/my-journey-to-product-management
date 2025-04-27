@@ -217,6 +217,7 @@ TRIZ stands for Theory of Inventive Problem Solving. It's a tool that helps PM t
 
 Problem Framing sounds like a fancy term but what it really means for pm is to articulate a problem in a detailed way, understanding the root cause of the problem. Most of the time, an efficient product solution depends how deeply we understand the problem. 
 
+## Market Analysis
 Market Analysis is an essential responsibility of a Product Manager. It involves a deep understanding of potential customers, competitors, and prevailing business trends. This knowledge empowers PMs to craft effective strategies for successful product development.
 
 ---
