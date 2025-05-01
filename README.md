@@ -29,6 +29,7 @@ This document tracks my learning and transition into product management.
 22. [TRIZ in Product Management](#triz-in-product-management)
 23. [Problem Framing](#problem-framing)
 24. [Market Analysis](#market-analysis)
+25. [Identifying Market Needs under Market Analysis](#identifying-market-needs-under-market-analysis)
 
 ---  
 
@@ -219,6 +220,10 @@ Problem Framing sounds like a fancy term but what it really means for pm is to a
 
 ## Market Analysis
 Market Analysis is an essential responsibility of a Product Manager. It involves a deep understanding of potential customers, competitors, and prevailing business trends. This knowledge empowers PMs to craft effective strategies for successful product development.
+
+## Identifying Market Needs under Market Analysis
+
+Understanding market needs is crucial when analyzing a market. It’s not just about what you’re selling, but why customers are interested in it. A Product Manager's goal is to uncover unmet problems — issues that haven't been solved yet, but customers are willing to pay for a solution. This is where innovation happens: by identifying gaps in the market and finding ways to fill them. It’s all about truly understanding the customer and their needs, then delivering something that makes a real impact
 
 ---
 
