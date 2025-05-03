@@ -30,6 +30,7 @@ This document tracks my learning and transition into product management.
 23. [Problem Framing](#problem-framing)
 24. [Market Analysis](#market-analysis)
 25. [Identifying Market Needs under Market Analysis](#identifying-market-needs-under-market-analysis)
+26. [Competitive Analysis](#competitive-analysis)
 
 ---  
 
@@ -223,7 +224,17 @@ Market Analysis is an essential responsibility of a Product Manager. It involves
 
 ## Identifying Market Needs under Market Analysis
 
-Understanding market needs is crucial when analyzing a market. It’s not just about what you’re selling, but why customers are interested in it. A Product Manager's goal is to uncover unmet problems — issues that haven't been solved yet, but customers are willing to pay for a solution. This is where innovation happens: by identifying gaps in the market and finding ways to fill them. It’s all about truly understanding the customer and their needs, then delivering something that makes a real impact
+Understanding market needs is crucial when analyzing a market. It’s not just about what you’re selling, but why customers are interested in it. A Product Manager's goal is to uncover unmet problems — issues that haven't been solved yet, but customers are willing to pay for a solution. This is where innovation happens: by identifying gaps in the market and finding ways to fill them. It’s all about truly understanding the customer and their needs, then delivering something that makes a real impact.
+
+## Competitive Analysis
+
+Being a Product Manager isn’t just about building cool stuff 🛠️ — it’s also about knowing what others are up to 👀. That means checking out competitors, spotting their strengths 💪, weaknesses ⚠️, and figuring out what makes them tick.
+
+How are they pricing their product? 💰
+What’s working well for them? ✅
+What’s missing that you can offer? ✨
+
+All of this helps you build a smarter strategy and a stronger product. Because let’s face it — we’re not here to play catch-up, we’re here to lead the game 🎯🚀
 
 ---
 
