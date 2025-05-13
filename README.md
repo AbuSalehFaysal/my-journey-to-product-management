@@ -32,6 +32,7 @@ This document tracks my learning and transition into product management.
 25. [Identifying Market Needs under Market Analysis](#identifying-market-needs-under-market-analysis)
 26. [Competitive Analysis](#competitive-analysis)
 27. [Emerging Market Trends](#emerging-market-trends)
+28. [User Research](#user-research)
 
 ---  
 
@@ -243,6 +244,9 @@ As product managers, staying on top of emerging market trends is key.
 
 The market evolves—so should our products. By tracking shifts in customer behavior and industry patterns, we can adapt early and build solutions that truly meet changing needs.
 
+## User Research
+
+One of the significant roles of a Product Manager is user research. It includes understanding user's needs, pain point. At the end of the day, a PM's goal is to solve a problem that generates revenue. And from the first to last, the product is for the users.
 ---
 
 More topics coming soon... 🚀  
