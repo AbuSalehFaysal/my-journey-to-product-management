@@ -252,7 +252,9 @@ One of the significant roles of a Product Manager is user research. It includes 
 
 ## User Personas in User Research
 
+
 User personas are fictional profiles that represent various types of users. When developing a product, it's important to consider the diversity of users. User personas help us identify these different user types, which is essential for understanding the problems we aim to solve.
+
 ---
 
 More topics coming soon... 🚀  
