@@ -34,6 +34,7 @@ This document tracks my learning and transition into product management.
 27. [Emerging Market Trends](#emerging-market-trends)
 28. [User Research](#user-research)
 29. [User Personas in User Research](#user-personas-in-user-research)
+30. [User Interviews in User Research](#user-interviews-in-user-research)
 
 ---  
 
@@ -254,6 +255,11 @@ One of the significant roles of a Product Manager is user research. It includes 
 
 
 User personas are fictional profiles that represent various types of users. When developing a product, it's important to consider the diversity of users. User personas help us identify these different user types, which is essential for understanding the problems we aim to solve.
+
+
+## User Interviews in User Research
+
+User interviews represent one of the most established methods of conducting user research. During these interviews, a Product Manager (PM) engages directly with users to gather insights and feedback. By asking targeted questions, the PM can uncover valuable perspectives and experiences that shape how users interact with a product. This qualitative feedback is essential for understanding user needs, preferences, and pain points, ultimately guiding the development of effective solutions that resonate with the target audience.
 
 ---
 
