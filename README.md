@@ -35,6 +35,7 @@ This document tracks my learning and transition into product management.
 28. [User Research](#user-research)
 29. [User Personas in User Research](#user-personas-in-user-research)
 30. [User Interviews in User Research](#user-interviews-in-user-research)
+31. [Surveys and Questionnaires in User Research](#surveys-and-questionnaires-in-user-research)
 
 ---  
 
@@ -260,6 +261,10 @@ User personas are fictional profiles that represent various types of users. When
 ## User Interviews in User Research
 
 User interviews represent one of the most established methods of conducting user research. During these interviews, a Product Manager (PM) engages directly with users to gather insights and feedback. By asking targeted questions, the PM can uncover valuable perspectives and experiences that shape how users interact with a product. This qualitative feedback is essential for understanding user needs, preferences, and pain points, ultimately guiding the development of effective solutions that resonate with the target audience.
+
+## Surveys and Questionnaires in User Research
+
+When working with a large user base, conducting individual interviews may not be feasible. In such cases, surveys and questionnaires are valuable tools. Users can complete these surveys, and by analyzing their responses, we can gather important insights for our user research.
 
 ---
 
