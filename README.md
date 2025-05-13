@@ -246,7 +246,9 @@ The market evolves—so should our products. By tracking shifts in customer beha
 
 ## User Research
 
+
 One of the significant roles of a Product Manager is user research. It includes understanding user's needs, pain point. At the end of the day, a PM's goal is to solve a problem that generates revenue. And from the first to last, the product is for the users.
+
 ---
 
 More topics coming soon... 🚀  
