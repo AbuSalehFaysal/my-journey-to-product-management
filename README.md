@@ -268,7 +268,9 @@ When working with a large user base, conducting individual interviews may not be
 
 ## Ethnographic Research
 
+
 User personas, interviews, and surveys provide valuable insights into user needs and pain points. However, to truly understand behaviour patterns, we need to observe how users interact with our product in real time. This process is known as ethnographic research.
+
 ---
 
 More topics coming soon... 🚀  
