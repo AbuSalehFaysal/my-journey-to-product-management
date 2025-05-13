@@ -36,7 +36,7 @@ This document tracks my learning and transition into product management.
 29. [User Personas in User Research](#user-personas-in-user-research)
 30. [User Interviews in User Research](#user-interviews-in-user-research)
 31. [Surveys and Questionnaires in User Research](#surveys-and-questionnaires-in-user-research)
-
+32. [Ethnographic Research](#ethnographic-research)
 ---  
 
 ## What is Product Management?  
@@ -266,6 +266,9 @@ User interviews represent one of the most established methods of conducting user
 
 When working with a large user base, conducting individual interviews may not be feasible. In such cases, surveys and questionnaires are valuable tools. Users can complete these surveys, and by analyzing their responses, we can gather important insights for our user research.
 
+## Ethnographic Research
+
+User personas, interviews, and surveys provide valuable insights into user needs and pain points. However, to truly understand behaviour patterns, we need to observe how users interact with our product in real time. This process is known as ethnographic research.
 ---
 
 More topics coming soon... 🚀  
