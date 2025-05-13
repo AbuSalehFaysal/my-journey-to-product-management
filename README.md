@@ -33,6 +33,7 @@ This document tracks my learning and transition into product management.
 26. [Competitive Analysis](#competitive-analysis)
 27. [Emerging Market Trends](#emerging-market-trends)
 28. [User Research](#user-research)
+29. [User Personas in User Research](#user-personas-in-user-research)
 
 ---  
 
@@ -249,6 +250,9 @@ The market evolves—so should our products. By tracking shifts in customer beha
 
 One of the significant roles of a Product Manager is user research. It includes understanding user's needs, pain point. At the end of the day, a PM's goal is to solve a problem that generates revenue. And from the first to last, the product is for the users.
 
+## User Personas in User Research
+
+User personas are fictional profiles that represent various types of users. When developing a product, it's important to consider the diversity of users. User personas help us identify these different user types, which is essential for understanding the problems we aim to solve.
 ---
 
 More topics coming soon... 🚀  
