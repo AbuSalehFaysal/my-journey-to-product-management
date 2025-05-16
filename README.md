@@ -38,6 +38,7 @@ This document tracks my learning and transition into product management.
 31. [Surveys and Questionnaires in User Research](#surveys-and-questionnaires-in-user-research)
 32. [Ethnographic Research](#ethnographic-research)
 33. [Positioning](#positioning)
+34. [Vision-and-Mission](#vision-and-mission)
 
 ---  
 
@@ -276,6 +277,18 @@ User personas, interviews, and surveys provide valuable insights into user needs
 ## Positioning
 
 As a Product Manager (PM), it's essential to effectively communicate the value of our product to users. This includes highlighting the product's unique selling points, which are considered its core characteristics. To successfully position a product, a PM must conduct market segmentation to identify different types of users and analyze case studies to understand how the product will fit into the market.
+
+## Vision and Mission
+
+The vision is all about the long game. It’s that big, bold future we want to reach. The mission, on the other hand, keeps us grounded in the now — it’s how we plan to get there, with clear objectives guiding us along the way.
+
+But it doesn’t stop there. Every product needs a value proposition that connects our work back to business goals. It’s the bridge between what we’re building and why it matters.
+
+As product managers, we’re not just dreamers. We have to be strategic — making plans, using our team’s strengths, and staying aware of both current and future constraints. That awareness is what helps us come up with real, practical solutions before problems even arise.
+
+And then there’s the narrative — the story we build around our product. It’s shaped by our business objectives, the needs of our users, and the unique capabilities of our team. It gives our product direction, clarity, and meaning.
+
+It’s a lot to think about, but at the heart of it, it’s about building with intention.
 
 ---
 
