@@ -37,6 +37,8 @@ This document tracks my learning and transition into product management.
 30. [User Interviews in User Research](#user-interviews-in-user-research)
 31. [Surveys and Questionnaires in User Research](#surveys-and-questionnaires-in-user-research)
 32. [Ethnographic Research](#ethnographic-research)
+33. [Positioning](#positionig)
+
 ---  
 
 ## What is Product Management?  
@@ -270,6 +272,10 @@ When working with a large user base, conducting individual interviews may not be
 
 
 User personas, interviews, and surveys provide valuable insights into user needs and pain points. However, to truly understand behaviour patterns, we need to observe how users interact with our product in real time. This process is known as ethnographic research.
+
+## Positioning
+
+As a Product Manager (PM), it's essential to effectively communicate the value of our product to users. This includes highlighting the product's unique selling points, which are considered its core characteristics. To successfully position a product, a PM must conduct market segmentation to identify different types of users and analyze case studies to understand how the product will fit into the market.
 
 ---
 
