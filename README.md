@@ -37,7 +37,7 @@ This document tracks my learning and transition into product management.
 30. [User Interviews in User Research](#user-interviews-in-user-research)
 31. [Surveys and Questionnaires in User Research](#surveys-and-questionnaires-in-user-research)
 32. [Ethnographic Research](#ethnographic-research)
-33. [Positioning](#positionig)
+33. [Positioning](#positioning)
 
 ---  
 
