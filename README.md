@@ -39,7 +39,7 @@ This document tracks my learning and transition into product management.
 32. [Ethnographic Research](#ethnographic-research)
 33. [Positioning](#positioning)
 34. [Vision and Mission](#vision-and-mission)
-35. [Define Goals](#define-goals)
+35. [Defining Goals](#defining-goals)
 
 ---  
 
