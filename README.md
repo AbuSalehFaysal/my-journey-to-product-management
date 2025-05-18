@@ -39,6 +39,7 @@ This document tracks my learning and transition into product management.
 32. [Ethnographic Research](#ethnographic-research)
 33. [Positioning](#positioning)
 34. [Vision and Mission](#vision-and-mission)
+35. [Define Goals](#define-goals)
 
 ---  
 
@@ -289,6 +290,23 @@ As product managers, we’re not just dreamers. We have to be strategic — maki
 And then there’s the narrative — the story we build around our product. It’s shaped by our business objectives, the needs of our users, and the unique capabilities of our team. It gives our product direction, clarity, and meaning.
 
 It’s a lot to think about, but at the heart of it, it’s about building with intention.
+
+## Defining Goals
+
+One thing I’ve learned in product management — goals are everything. Without them, it’s easy to lose focus or chase too many things at once.
+
+But not all goals are the same. Here’s how I usually break them down:
+
+Target-based: These are the numbers. Conversions, signups, revenue — stuff you can measure.
+
+Baseline-based: Just keeping the product stable, fast, and reliable. Not every goal is about growth — sometimes it’s about not letting things break.
+
+Trend-based: What are users asking for? What’s shifting in the market? These goals help us stay relevant.
+
+Timeframe-based: Deadlines matter. Quarterly goals, sprint goals — they give us structure and help track progress.
+
+
+Every product team needs clarity. And having the right mix of goals makes a huge difference.
 
 ---
 
