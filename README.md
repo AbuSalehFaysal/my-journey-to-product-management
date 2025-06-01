@@ -316,6 +316,7 @@ One of the first lessons I learned stepping into Product Management: you’re no
 That’s where the Value Proposition comes in. It's not just a buzzword; it's how we make sure what we’re building actually matters to the customer.
 
 To break it down simply:
+
 ✅ What problems are customers facing?
 
 ✅ How do our product features solve those problems?
