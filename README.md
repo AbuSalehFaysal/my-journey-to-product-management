@@ -317,7 +317,9 @@ That’s where the Value Proposition comes in. It's not just a buzzword; it's ho
 
 To break it down simply:
 ✅ What problems are customers facing?
+
 ✅ How do our product features solve those problems?
+
 ✅ And why should they choose us over others?
 
 There’s even a great tool for this—the Value Proposition Canvas. It helps align our product with real customer needs and pain points. I’ve found it especially useful in keeping our focus clear and grounded in reality.
