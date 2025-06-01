@@ -40,7 +40,7 @@ This document tracks my learning and transition into product management.
 33. [Positioning](#positioning)
 34. [Vision and Mission](#vision-and-mission)
 35. [Defining Goals](#defining-goals)
-
+36. [Value Proposition](#value-proposition)
 ---  
 
 ## What is Product Management?  
@@ -307,6 +307,20 @@ Timeframe-based: Deadlines matter. Quarterly goals, sprint goals — they give u
 
 
 Every product team needs clarity. And having the right mix of goals makes a huge difference.
+
+
+## Value Proposition
+
+One of the first lessons I learned stepping into Product Management: you’re not just building a product—you’re solving someone’s problem.
+
+That’s where the Value Proposition comes in. It's not just a buzzword; it's how we make sure what we’re building actually matters to the customer.
+
+To break it down simply:
+✅ What problems are customers facing?
+✅ How do our product features solve those problems?
+✅ And why should they choose us over others?
+
+There’s even a great tool for this—the Value Proposition Canvas. It helps align our product with real customer needs and pain points. I’ve found it especially useful in keeping our focus clear and grounded in reality.
 
 ---
 
