@@ -41,6 +41,7 @@ This document tracks my learning and transition into product management.
 34. [Vision and Mission](#vision-and-mission)
 35. [Defining Goals](#defining-goals)
 36. [Value Proposition](#value-proposition)
+37. [Value vs Features](#value-vs-features)
 ---  
 
 ## What is Product Management?  
@@ -324,6 +325,11 @@ To break it down simply:
 ✅ And why should they choose us over others?
 
 There’s even a great tool for this—the Value Proposition Canvas. It helps align our product with real customer needs and pain points. I’ve found it especially useful in keeping our focus clear and grounded in reality.
+
+
+## Value vs Features
+
+As a product manager, sometimes we may feel like increasing the number of features. But at the same time, we need to ensure that our product's core value is meeting the customer's needs properly. We need to create a balance by researching the market needs, customer feedback and competitors' analysis.
 
 ---
 
